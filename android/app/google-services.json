@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "424286585183",
+    "project_id": "mobidiyaapp",
+    "storage_bucket": "mobidiyaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424286585183:android:47bff72084f2f52c5af6ea",
+        "android_client_info": {
+          "package_name": "com.example.new_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424286585183-o7gu9g8m0ga1aca38npmaifvu5lq314b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAsKMZV8-8irq5wNulPFbAAJ-gX1soVng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424286585183-o7gu9g8m0ga1aca38npmaifvu5lq314b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
