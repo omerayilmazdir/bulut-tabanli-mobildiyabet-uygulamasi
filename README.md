@@ -13,4 +13,4 @@
 * Egzersiz; Kullanıcı yapılacak egzersizlerini girer uygulama buluta kayıt eder ve bunu listeler, uygulama içinde kullanıcıya sunar.
 * Rapor; Bu kısımda kullanıcı tamamlanmış-eksik işlemlerinin kontrolünü sağlar. Ör: günlük egzersiz tamamlanmış ise durumunu tamamlanmış olarak günceller ve rapor olarak alır. Aynı zamanda düzenleme, silme işlemi de mevcuttur.
 
-Detaylı bilgi ve uygulamanın görüntüleri için **Rapor.pdf** dosyasını okuyunuz.
+Detaylı bilgi ve uygulamanın görüntüleri için <a href="https://github.com/omerayilmazdir/bulut-tabanli-mobildiyabet-uygulamasi/blob/main/Rapor.pdf">**Rapor.pdf**</a> dosyasını okuyunuz.
